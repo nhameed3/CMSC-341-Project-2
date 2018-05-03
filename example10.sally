@@ -1,0 +1,7 @@
+ 0 DO
+      1 +
+      DUP . CR
+      DUP
+   10 >= UNTIL
+   DROP
+   
